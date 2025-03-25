@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 
-# 💫 Hello ! I'm Web3-Youth From India 🇮🇳
+# 💫 Hello ! I'm Web3-Youth From India 
 👨‍💻 Developer | Blockchain Enthusiast 🚀<br>💡 Automating the Future with code<br>🔗 Passionate about Web3 & Airdrop Scripts<br>💬 Always open to collaborations & learning<br>🌍 Open-source advocate for a better web<br>🚀 Let's create something epic together!
 
 
